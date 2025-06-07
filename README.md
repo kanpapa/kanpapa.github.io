@@ -2,6 +2,5 @@
 
 ### Projects
 
-- [cosmac](https://github.com/kanpapa/cosmac)
-- [emu1802](https://github.com/kanpapa/emu1802)
+- [COSMAC研究会](https://kanpapa.github.io/cosmac-lab/)
 - [MC68EZ328](https://github.com/kanpapa/MC68EZ328)
